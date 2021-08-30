@@ -33,13 +33,13 @@ Write a C++ program called `quadratic.cpp` that solves the quadratic equation fo
 
 Generally, you would want to compile and execute the program locally. To do that:
 
-1. Download initials.cpp.
+1. Download quadratic.cpp.
 2. Open the terminal or command line and navigate to the directory where the downloaded file resides.
 3. Run the following commands to compile and execute the program:
 
 ```git
-g++ dog_years.cpp -o dog_years
-./dog_years
+g++ quadratic.cpp -o quadratic
+./quadratic
 ```
 
 ## Sources
